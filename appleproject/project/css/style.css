@@ -1,0 +1,202 @@
+header{
+    background-color: #ffffff;
+    position:-ms-page;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+.header ul{
+    display: flex;
+    justify-content:space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.header{
+    
+    margin: 10 auto ;
+    display:flex;
+    height: 70px;
+    
+    
+}
+a {
+  text-decoration: none;
+}
+.header ul li{
+    font-size: small;
+    
+    
+}
+.header ul{
+    list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  flex: 1;
+   
+}
+
+
+
+
+  
+  
+
+    
+    
+    
+
+.iphone14pro{
+position: absolute;
+    top: 20%;
+    left: 50%;
+    font-style: italic;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+.iphone14-text{
+
+position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+
+}
+.pro{
+position: absolute;
+    top: 29%;
+    left: 55%;
+    
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-weight:italic;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+     
+    
+
+
+}
+
+/* to chane the picture when we minimize the window but doesnt work fighre out
+.iphone14 img{
+    max-width:100%;
+    height: auto;
+    float:right;
+}
+@media screen and (min-width: 500px)
+{   
+    .iphone14 img {float: left;
+    
+}}*/
+
+.Link{
+    position: absolute;
+    top:35%;
+    left:50%;
+    color:rgb(62, 140, 242);
+    font-size: 18px;
+    font: italic;
+    
+    
+    
+}
+.iphone14{
+    background-color: black;
+}
+.four{
+    position: absolute;
+    top:150%;
+    color: rgb(15, 15, 15);
+    font-size: 55px;
+    left: 47%;
+    font:bold;
+
+
+}
+.wonderful{
+
+position: absolute;
+    top:162%;
+    color: rgb(15, 15, 15);
+    font-size: 25px;
+    left: 53%;
+    font:bold;
+
+
+
+
+}
+.learn{
+    position: absolute;
+    top:170%;
+    color: rgb(62, 140, 242);
+    font-size: 18px;
+    left: 48%;
+    font:bold;
+
+
+
+
+}
+.buy{
+    position: absolute;
+    top:170%;
+    color: rgb(62, 140, 242);
+    font-size: 18px;
+    left:60%;
+    font:bold;
+
+
+
+}
+.sale{
+    position: absolute;
+    top:35%;
+    left:60%;
+    color:rgb(62, 140, 242);
+    font-size: 18px;
+    font: italic;
+
+
+}
+.two{
+display:flex;
+justify-content: space-between 10px;
+background-color: #f0f4f7;
+}
+.video{
+
+display:flex;
+justify-content: space-between  ;
+padding: 100px;
+background-color: black;
+max-width: 100%;
+margin-right: 10px;
+
+
+    
+}
+body{
+
+    font-size: 20px; 
+	font-family: 'Montserrat', sans-serif;
+}
